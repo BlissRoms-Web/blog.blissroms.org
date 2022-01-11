@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[5219],{5884:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/android-12","name":"android12","count":1,"permalink":"/tags/android-12"}')}}]);
